@@ -8,7 +8,7 @@ const home = () =>{
       <table className="table">
        <tr>
         <td className="image">
-          <img src={Photo} alt="Self Photo"/>
+          <img src={Photo} alt="Self"/>
         </td>
         <td className="para">
           <p>
