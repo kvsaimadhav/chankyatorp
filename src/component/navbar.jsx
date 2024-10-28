@@ -21,19 +21,19 @@ const navbar = () => {
                 <li><a href="#contact" rel="no-opener">Contact</a></li>
                 <li><a href="#" rel="no-opener">Documents</a>
                     <ul class="doc">
-                        <li><a href={resume} rel="no-opener" target="_blank">Resume</a></li>
-                        <li><a href={cv} rel="no-opener" target="_blank">CV</a></li>
-                        <li><a href={cl} rel="no-opener" target="_blank">Letter</a></li>
-                        <li><a href="#" rel="no-opener"><img class="cmich" src={cmich}/><br/>&nbsp;Certification</a>
+                        <li><a href={resume} rel="no-referrer no-opener" target="_blank">Resume</a></li>
+                        <li><a href={cv} rel="no-referrer no-opener" target="_blank">CV</a></li>
+                        <li><a href={cl} rel="no-referrer no-opener" target="_blank">Letter</a></li>
+                        <li><a href="#" rel="no-referrer no-opener"><img class="cmich" src={cmich} alt="Certifications achieved in CMich"/><br/>&nbsp;Certification</a>
                             <ul class="cert">
-                                <li><a href={aws} rel="no-opener" target="_blank">&nbsp;AWS</a></li>
-                                <li><a href={oracle} rel="no-opener" target="_blank">&nbsp;Oracle</a></li>
+                                <li><a href={aws} rel="no-referrer no-opener" target="_blank">&nbsp;AWS</a></li>
+                                <li><a href={oracle} rel="no-referrer no-opener" target="_blank">&nbsp;Oracle</a></li>
                             </ul>
                         </li>
-                        <li><a href="#" rel="no-opener"><img class="cmich" src={bits}/><br/>&nbsp;Above Beyond</a>
+                        <li><a href="#" rel="no-opener"><img class="cmich" src={bits} alt="BITS Pilani attained Medals"/><br/>&nbsp;Above Beyond</a>
                             <ul class="extrac">
-                                <li><a href={bosm} rel="no-opener" target="_blank">Sports</a></li>
-                                <li><a href={coep} rel="no-opener" target="_blank">Nationals</a></li>
+                                <li><a href={bosm} rel="no-referrer no-opener" target="_blank">Sports</a></li>
+                                <li><a href={coep} rel="no-referrer no-opener" target="_blank">Nationals</a></li>
                             </ul>
                         </li>
                     </ul>
