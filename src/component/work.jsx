@@ -18,7 +18,7 @@ const work = () => {
       </div>
       <div class="workContent">
       <div class="workBxCurr">
-          <img src={neemus} alt="Current Company"/>
+          <img src={neemus} alt="Neemus Company Logo"/>
           <h3>Neemus Software Solutions</h3>
           <p>
             Projects consists of Core Backend Development with observation skillset. I worked on Qt Framework for 
@@ -30,7 +30,7 @@ const work = () => {
             </p>
         </div>
         <div class="workBxICurr">
-          <img src={drdo} alt="Previous Immediate Company"/>
+          <img src={drdo} alt="DRDL Logo"/>
           <h3>DRDL Kanchanbagh</h3>
           <p>
             Project consists of Software with Oracle database had learnt. Enhanced skillset PL/SQL, Java/ JSP, ASP.net,
@@ -42,7 +42,7 @@ const work = () => {
           </p>
         </div>
         <div class="workBxPrev">
-          <img src={ssg} alt="After Masters Degree in CS at CMich - Job Offered"/>
+          <img src={ssg} alt="SSG Logo"/>
           <h3>Strategic Solutions Group</h3>
           <p>
             Project consists of Massachussets Virtual Epideomological Network, a diesease surveillence system 
