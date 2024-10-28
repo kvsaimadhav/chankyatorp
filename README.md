@@ -18,7 +18,7 @@
 ## MVC architecture understanding should be solid. It means Model View Controller practical scenarios application should be known or atleast practiced.
 ## For Backend Hosting, we can easily test with knowledge of Java or Python or C++ (Any Language grip of 2 Years is must).
 
-# Note: I created project for 0 - 2 years IT expertise can start learning as far as sharing .... is caring ... :)
+# Note: I created project for 0 - 2 years IT expertise can start learning as far as sharing knowledge attained until now ..
 
 
 
