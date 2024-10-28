@@ -1,6 +1,7 @@
 {
   "name": "chanakyatorp",
   "version": "0.1.0",
+  "home": "/chankyatorp",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -37,7 +38,8 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies":[
+  "devDependencies":
+  [
     "@babel/plugin-proposal-private-property-in-object"
   ]
 }
