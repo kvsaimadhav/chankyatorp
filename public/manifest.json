@@ -1,0 +1,8 @@
+{
+  "short_name": "ReactJS based Website",
+  "name": "Kazas' Portfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#D3D3D3",
+  "background_color": "#F5F5F5"
+}

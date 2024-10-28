@@ -1,0 +1,79 @@
+  .navbar{
+    font-size: 16px;
+    padding: 10px 15px;
+    background-color: rgba(52, 53, 73, 0.823);
+  }
+  
+  .navbar ul{
+    position: relative;
+    display: flex;
+    text-align: center;
+  }
+  
+  .navbar li{
+    display: flow-root;
+  }
+
+  .navbar li a{
+    padding: 10px 12px;
+    text-decoration: none;
+    forced-color-adjust: auto;
+  }
+  
+  .navbar li a:hover{
+    color: rgba(20, 137, 221, 0.632);
+  }
+
+  .doc{
+    color: rgba(62, 145, 164, 0.866); 
+    text-align: center;
+    position: sticky;
+    scale: calc(1.08);
+  }
+
+  .doc li{
+    display: relative;
+  }
+  
+  .doc a{
+    text-decoration:none;
+  }
+  
+  .doc a:hover{
+    scale: calc(1.2);
+  }
+
+  .doc img{
+    scale: calc(0.6);
+  }
+
+  .doc img:hover{
+    transform: scale(1.25);
+  }
+
+  .navbar li:last-child .doc{
+    display: none;
+  }
+
+  .navbar li:last-child:hover .doc{
+    position: absolute;
+    display: flex;
+  }
+
+  .doc li:nth-last-child .cert{
+    display:none;
+  }
+
+  .doc li:nth-last-child:hover .cert{
+    position: absolute;
+    display: block;
+  }
+
+  .doc li:last-child .extrac{
+    display: none;
+  }
+
+  .doc li:last-child:hover .extrac{
+    position: aboslute;
+    display: block;
+  }
