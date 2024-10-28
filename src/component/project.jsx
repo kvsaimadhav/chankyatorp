@@ -25,7 +25,7 @@ const project = () =>{
                 algorithm as saturation or unsaturation usage. Project Concluded that 90 plus percentage can be obtained 
                 with saturation and more than 70 percent dataset points. Thus, Project was closed with extensive results as 
                 if it was a research or industry oriented web application <b>....</b> 
-                <a href="https://github.com/kvsaimadhav/ITC691-Research/" rel="no-opener" target="_blank"><i>view</i></a>
+                <a href="https://github.com/kvsaimadhav/ITC691-Research/" rel="no-referrer no-opener" target="_blank"><i>view</i></a>
               </p>
               
         </div>
@@ -39,7 +39,7 @@ const project = () =>{
                 more than asked about client puzzle "if solved, only then benign user get access to website". Course 
                 completed with website developed and research paper and presentation for good insight on work or 
                 campus culture <b>....</b>
-                <a href="https://github.com/kvsaimadhav/ITC520-Research/" rel="no-opener" target="_blank"><i>view</i></a>
+                <a href="https://github.com/kvsaimadhav/ITC520-Research/" rel="no-referrer no-opener" target="_blank"><i>view</i></a>
               </p>
         </div>
       </div>
