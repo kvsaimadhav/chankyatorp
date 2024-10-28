@@ -18,7 +18,7 @@ const work = () => {
       </div>
       <div class="workContent">
       <div class="workBxCurr">
-          <img src={neemus} alt="Neemus Company Logo"/>
+          <img src={neemus} alt="Neemus Logo"/>
           <h3>Neemus Software Solutions</h3>
           <p>
             Projects consists of Core Backend Development with observation skillset. I worked on Qt Framework for 
